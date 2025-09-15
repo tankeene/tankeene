@@ -35,11 +35,11 @@
 ---
 
 ### 📊 GitHub Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankeene&layout=compact&theme=radical)
+
 ![Keene's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankeene&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tankeene&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankeene&layout=compact&theme=radical)
 
 ---
 
